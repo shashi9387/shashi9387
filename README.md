@@ -2,6 +2,8 @@
 
 A very high Lover of AI & its tools, eager to work it if provided opportunities.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Shashi Kumar's LinkedIn" height='30'>](https://www.linkedin.com/in/shashikumar9387/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Shashi Kumar's Gmail">](mailto:sk00009387@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" alt="Shashi Kumar's GitHub">](https://github.com/shashi9387?tab=repositories)
+
 <!--
 **shashi9387/shashi9387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +25,7 @@ Experienced Python Automation Engineer with a experiance of 1.58 years and going
 
 Skilled in:
 
-- Backend: Java 8, JEE (Servlet, JSP), JDBC, Spring MVC, Spring Boot, Hibernate, RESTful web services, Microservices
+- Backend: Java 8, JEE (Servlet), JDBC, Spring MVC, Spring Boot, Hibernate, RESTful web services, Microservices
 - Frontend: HTML5, CSS3, JS
 - Databases: MySQL
 - Build tools: Maven
