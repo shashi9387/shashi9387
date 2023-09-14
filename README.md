@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experienced Python Automation Engineer with 1.58 years of experience and going, has a high tendency to learn new things in the zone of my interest. Committed to continuous learning and eager to explore new technologies and tech stacks.
+Experienced Python Automation Engineer with 1.58 years of experience in testing, has a high tendency to learn new things in the zone of my interest. Committed to continuous learning and eager to explore new technologies and tech stacks.
 
 
 
