@@ -25,8 +25,8 @@ Experienced Python Automation Engineer with 1.58 years of experience in testing,
 
 Skilled in:
 
-- Backend: Core Java, JEE (Servlet), JDBC, Spring MVC, Spring Boot, Hibernate, RESTful web services, Microservices
-- Frontend: HTML5, CSS3, JS
+- Backend: Core Java, JDBC, JEE (Servlet), Hibernate, Spring Core, Spring Boot, Spring ORM, Spring JDBC, Spring DataJPA
+- Frontend: HTML5, CSS3
 - Databases: MySQL
 - Build tools: Maven
 - Virtualization: Docker
