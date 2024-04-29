@@ -36,4 +36,6 @@ Skilled in:
 - **Software Development Methodologies:** Agile, Waterfall
 - **Collaboration:** GitHub, Jira, Confluence
 
+<a href="http://www.github.com/shashi9387"><img src="https://github-readme-stats.vercel.app/api?username=shashi9387&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="Shashi's GitHub stats" /></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi9387&" alt="shashi9387" /></p>
