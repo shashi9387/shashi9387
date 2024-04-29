@@ -27,6 +27,7 @@ Skilled in:
 
 - Programming Languages: Java 8, 17
 - Backend: Core Java, JDBC, JEE (Servlet), Hibernate, Spring Core, Spring Boot, Spring ORM, Spring JDBC, Spring DataJPA
+- Frameworks and Libraries: Spring Boot 3, Junit 5, Mockito, Spring Integration
 - Frontend: HTML5, CSS3
 - Databases: MySQL
 - Build tools: Maven
