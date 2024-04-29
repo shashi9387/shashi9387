@@ -39,3 +39,5 @@ Skilled in:
 <a href="http://www.github.com/shashi9387"><img src="https://github-readme-stats.vercel.app/api?username=shashi9387&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="Shashi's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi9387&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="Shashi's Streak History" /></p>
+
+<a href="https://github.com/attrayadas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attrayadas&langs_count=10&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
