@@ -25,17 +25,15 @@ Experienced Python Automation Engineer with 1.58 years of experience in testing,
 
 Skilled in:
 
-- Programming Languages: Java 8, 17
-- Backend: Core Java, JDBC, JEE (Servlet), Hibernate, Spring Core, Spring Boot, Spring ORM, Spring JDBC, Spring DataJPA
-- Frameworks and Libraries: Spring Boot 3, Junit 5, Mockito, Spring Integration
-- Message Brokers: Apache Kafka, JMS
-- Frontend: HTML5, CSS3
-- Databases: Relational- MySQL, Oracle; NoSQL- MongoDB
-- Development Tools: DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
-- Operating Systems: Windows
-- Web Services and Cloud: REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
-- Version Control: Git & GitHub
-- Software Development Methodologies: Agile, Waterfall
-- Collaboration: GitHub, Jira, Confluence
+- **Programming Languages:** Java 8, 17
+- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration
+- **Message Brokers:** Apache Kafka, JMS
+- **Front End Technologies:** HTML5, CSS3
+- **Databases: Relational-** MySQL, Oracle; **NoSQL-** MongoDB
+- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- **Operating Systems:** Windows
+- **Web Services and Cloud:** REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
+- **Software Development Methodologies:** Agile, Waterfall
+- **Collaboration:** GitHub, Jira, Confluence
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi9387&" alt="shashi9387" /></p>
