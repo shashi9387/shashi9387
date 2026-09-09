@@ -156,7 +156,7 @@ A full-stack application built using:
 * Vite
 * REST APIs
 
-🔗 **[View Repository](https://github.com/shashi9387/tickettomyshow)**
+🔗 **[View Repository](https://github.com/LearnAITools/my-awasome-website)**
 
 ### 🎬 AI YouTube Video Automation Pipeline
 
@@ -173,7 +173,7 @@ AI-powered automation project for generating and publishing YouTube videos with 
 * Job persistence
 * Retry & recovery
 
-🔗 **[View My Repositories](https://github.com/shashi9387?tab=repositories)**
+🔗 **[View My Repositories](https://github.com/LearnAITools/projects)**
 
 ---
 
