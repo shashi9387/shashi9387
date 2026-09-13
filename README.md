@@ -34,6 +34,7 @@ I'm passionate about building scalable applications, learning new technologies, 
 * Spring Boot
 * Spring Integration
 * Spring Cloud
+* Spring Security
 * JUnit 5
 * Mockito
 
