@@ -203,10 +203,10 @@ AI-powered automation project for generating and publishing YouTube videos with 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shashikumar9387/">
+  <a href="https://www.linkedin.com/in/kumarsashi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:sk00009387@gmail.com">
+  <a href="mailto:shashi.k74882@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://github.com/shashi9387">
@@ -220,9 +220,9 @@ AI-powered automation project for generating and publishing YouTube videos with 
 
 🔗 **[GitHub Profile](https://github.com/shashi9387)**
 
-🔗 **[All Repositories](https://github.com/shashi9387?tab=repositories)**
+🔗 **[All Repositories](https://github.com/orgs/LearnAITools/repositories)**
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/shashikumar9387/)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/kumarsashi/)**
 
 ---
 
